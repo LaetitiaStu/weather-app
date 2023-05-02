@@ -64,3 +64,18 @@ max-width: 600px;
     color: rgb(33, 33, 33);
     cursor: default;
 }
+.weather-forecast {
+    margin-top: 20px;
+    text-align: center;
+}
+.weather-forecast-date {
+    font-size: 16px;
+    color: #000;
+    opacity: 0.5;
+}
+.weather-forecast-temperature {
+    font-size: 13px;
+}
+.weather-forecast-temperature-min {
+    opacity: 0.5;
+}
